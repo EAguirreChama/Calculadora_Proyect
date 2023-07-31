@@ -1,6 +1,6 @@
 # Calculadora en JavaScript
 
-Link para ver resultado: [CALCULADORA TRABAJO TERMINADO](https://calculadora-tutorial-js.netlify.app/)
+Link para ver resultado: [Calculadora Deploy](https://calculadora-proyect-js.netlify.app/)
 
 ## Funciones Principales
 
